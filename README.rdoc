@@ -1,0 +1,1 @@
+Aplicacion de prueba basada en http://ruby.railstutorial.org/chapters/static-pages
